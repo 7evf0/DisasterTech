@@ -1,0 +1,7 @@
+/* src/components/UserProfile/UserProfile.css */
+.user-profile-image {
+    /* styles for the profile image */
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
